@@ -1,5 +1,6 @@
+# -*- coding: utf-8 -*-
 '''
-Created by auto_sdk on 2020.08.28
+Created by auto_sdk on 2014.11.26
 '''
 from top.api.base import RestApi
 class AppipGetRequest(RestApi):

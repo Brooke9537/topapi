@@ -1,5 +1,6 @@
+# -*- coding: utf-8 -*-
 '''
-Created by auto_sdk on 2019.11.07
+Created by auto_sdk on 2016.08.19
 '''
 from top.api.base import RestApi
 class TopSecretGetRequest(RestApi):

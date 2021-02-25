@@ -2,14 +2,14 @@
 '''
 Created by auto_sdk on 2018.07.20
 
-https://jaq-doc.alibaba.com/docs/api.htm?scopeId=11655&apiId=36836
+https://open-doc.dingtalk.com/docs/api.htm?apiId=36837
 
-taobao.tbk.dg.newuser.order.sum (拉新活动汇总API--导购)
+taobao.tbk.sc.newuser.order.sum (拉新活动汇总API--社交)
 '''
 from top.api.base import RestApi
 
 
-class TbkDgNewuserOrderSumRequest(RestApi):
+class TbkScNewuserOrderSumRequest(RestApi):
     def __init__(self, domain='gw.api.taobao.com', port=80):
         RestApi.__init__(self, domain, port)
         self.activity_id = None
@@ -20,4 +20,4 @@ class TbkDgNewuserOrderSumRequest(RestApi):
         self.site_id = None
 
     def getapiname(self):
-        return 'taobao.tbk.dg.newuser.order.sum'
+        return 'taobao.tbk.sc.newuser.order.sum'

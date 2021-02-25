@@ -1,5 +1,6 @@
+# -*- coding: utf-8 -*-
 '''
-Created by auto_sdk on 2019.11.26
+Created by auto_sdk on 2015.08.20
 '''
 from top.api.base import RestApi
 class TopAuthTokenRefreshRequest(RestApi):

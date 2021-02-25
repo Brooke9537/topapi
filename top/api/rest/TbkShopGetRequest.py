@@ -1,5 +1,6 @@
+# -*- coding: utf-8 -*-
 '''
-Created by auto_sdk on 2020.02.24
+Created by auto_sdk on 2017.06.17
 '''
 from top.api.base import RestApi
 class TbkShopGetRequest(RestApi):

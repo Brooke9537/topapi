@@ -1,5 +1,8 @@
 '''
 Created by auto_sdk on 2020.08.18
+
+https://open.taobao.com/api.htm?source=search&docId=40173&docType=2
+淘宝客-推广者-淘礼金创建
 '''
 from top.api.base import RestApi
 class TbkDgVegasTljCreateRequest(RestApi):

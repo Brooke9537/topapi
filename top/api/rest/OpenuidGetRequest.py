@@ -1,5 +1,6 @@
+# -*- coding: utf-8 -*-
 '''
-Created by auto_sdk on 2018.10.17
+Created by auto_sdk on 2018.01.03
 '''
 from top.api.base import RestApi
 class OpenuidGetRequest(RestApi):

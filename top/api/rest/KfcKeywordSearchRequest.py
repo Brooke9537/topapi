@@ -1,5 +1,6 @@
+# -*- coding: utf-8 -*-
 '''
-Created by auto_sdk on 2018.07.26
+Created by auto_sdk on 2016.03.19
 '''
 from top.api.base import RestApi
 class KfcKeywordSearchRequest(RestApi):

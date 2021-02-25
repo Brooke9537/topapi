@@ -1,5 +1,6 @@
+# -*- coding: utf-8 -*-
 '''
-Created by auto_sdk on 2018.08.07
+Created by auto_sdk on 2017.07.31
 '''
 from top.api.base import RestApi
 class TopIpoutGetRequest(RestApi):

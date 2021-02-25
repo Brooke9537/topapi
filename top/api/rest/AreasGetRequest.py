@@ -1,5 +1,6 @@
+# -*- coding: utf-8 -*-
 '''
-Created by auto_sdk on 2020.12.14
+Created by auto_sdk on 2017.10.17
 '''
 from top.api.base import RestApi
 class AreasGetRequest(RestApi):

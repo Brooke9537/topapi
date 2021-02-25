@@ -1,5 +1,6 @@
+# -*- coding: utf-8 -*-
 '''
-Created by auto_sdk on 2018.07.25
+Created by auto_sdk on 2017.04.14
 '''
 from top.api.base import RestApi
 class JuItemsSearchRequest(RestApi):
