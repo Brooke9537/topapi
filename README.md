@@ -1,7 +1,7 @@
 ## topapi
 
 - Requirement: 
-    - Python2
+    - Python3
     - ...
 
 - Usage:
